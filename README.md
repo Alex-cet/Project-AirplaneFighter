@@ -1,1 +1,2 @@
-# Project-AirplaneFighter
+# AirplaneFighter
+This project was made using .NET and C# in a Windows Form application. The project features the common game Airplane Fighter where the user controls an aircraft and its purpose is to dodge as many incoming asteroids as possible. The first implementation is using a timer that calculates the number of seconds the aircraft is alive, which represents the user's score. The commented lines can be an alternative for the user's score to be equal with the number of asteroids avoided. If an asteroid hits the aircraft, a message box will be shown with the score of the user and the application will be closed afterwards.

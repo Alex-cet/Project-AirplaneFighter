@@ -1,0 +1,11 @@
+D:\GitHub Projects\Airplane Fighter\bin\Debug\Airplane Fighter.exe.config
+D:\GitHub Projects\Airplane Fighter\bin\Debug\Airplane Fighter.exe
+D:\GitHub Projects\Airplane Fighter\bin\Debug\Airplane Fighter.pdb
+D:\GitHub Projects\Airplane Fighter\obj\Debug\Airplane Fighter.csproj.AssemblyReference.cache
+D:\GitHub Projects\Airplane Fighter\obj\Debug\Airplane Fighter.csproj.SuggestedBindingRedirects.cache
+D:\GitHub Projects\Airplane Fighter\obj\Debug\Airplane_Fighter.Form1.resources
+D:\GitHub Projects\Airplane Fighter\obj\Debug\Airplane_Fighter.Properties.Resources.resources
+D:\GitHub Projects\Airplane Fighter\obj\Debug\Airplane Fighter.csproj.GenerateResource.cache
+D:\GitHub Projects\Airplane Fighter\obj\Debug\Airplane Fighter.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Airplane Fighter\obj\Debug\Airplane Fighter.exe
+D:\GitHub Projects\Airplane Fighter\obj\Debug\Airplane Fighter.pdb
